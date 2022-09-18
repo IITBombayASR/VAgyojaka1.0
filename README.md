@@ -17,7 +17,7 @@ To build the tool you'll need a few things to get started
 * Clone the repo or download as zip
 * Qt creator can be used to skip steps below and build the tool
 ```shell
-git clone https://github.com/jatindalal/asr-post-editor
+git clone https://github.com/IITBombayASR/VAgyojaka1.0
 cd asr-post-editor
 
 # The '-j flag' will help building the tool faster

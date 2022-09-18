@@ -29,7 +29,11 @@ cmake . -B build -j <no of jobs>
 cmake --build build
 ```
 
+## Documentation
+[Google Doc](https://docs.google.com/document/d/1B_BaV-scxw_VWk_WAv2ETvtPSziY2vqNwyULH1Draww/edit?usp=sharing)
+
 ## Sample Video and Transcript
 [Drive link](https://drive.google.com/drive/folders/1TTc0giy8rkz8hfXviKW2W90XpxDBISF7?usp=sharing)
+
 ## Screenshot
 ![tool](screenshots/main.png)
